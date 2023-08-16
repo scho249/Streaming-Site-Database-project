@@ -1,9 +1,6 @@
 # Building Online Streaming Site Database Project
-SQL
 
-Building database of online streaming site
-
-Create and Insert dummy data
-
-Build stored procedures, functions, and queries
+Building an online streaming site database 
+The database contains data about users, programs, ratings, etc. 
+Design Entity Relation Diagram, Build stored procedures, functions, and queries
 
